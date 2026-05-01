@@ -169,5 +169,6 @@ Case study должен показывать не "вот весь код", а �
 
 - `Portfolio-Repos/voice-to-text` — наполнен очищенным кодом, syntax check пройден, secret scan пройден, GitHub URL пока TODO.
 - `Portfolio-Repos/meeting-secretary` — наполнен очищенным кодом, syntax check пройден, secret scan пройден, GitHub URL пока TODO.
+- `Portfolio-Repos/poetryforge` — наполнен очищенным кодом из стабильного `HEAD`, большие generated data не включены, `uv run pytest` пройден (`161 passed, 6 skipped`), secret scan пройден, GitHub URL пока TODO.
 
 Публичные clean repos должны сохранять sanitized `AGENTS.md` и `CLAUDE.md`, потому что проверяющий может анализировать проект через Codex / Claude Code. Эти файлы не должны содержать личные пути, секреты, IP, реальные данные или внутренние рабочие правила, не относящиеся к публичному проекту.

@@ -1,4 +1,4 @@
-# AI Automation & Prompt Engineering Portfolio
+# Портфолио AI Automation и Prompt Engineering
 
 Портфолио начинающего AI automation / prompt engineering специалиста.
 
@@ -34,11 +34,11 @@
 | [Legal Verify](cases/legal-verify.md) | Domain AI / legal verification | TODO |
 | [Serbian Teacher](cases/serbian-teacher.md) | AI tutor / education automation | TODO |
 | [Income Bot](cases/income-bot.md) | Finance automation / receipt parsing | TODO |
-| [Meeting Secretary](cases/meeting-secretary.md) | Speech-to-text / meeting summaries | local clean repo ready, GitHub TODO |
+| [Meeting Secretary](cases/meeting-secretary.md) | Speech-to-text / summary встреч | local clean repo готов, GitHub TODO |
 | [Nutritionist Bot](cases/nutritionist.md) | Product AI bot / nutrition tracking | TODO |
 | [Oleg Psychologist](cases/oleg-psychologist.md) | Long-term memory AI assistant | TODO |
-| [PoetryForge](cases/poetryforge.md) | LLM output validation / CLI | TODO |
-| [Voice To Text](cases/voice-to-text.md) | Speech-to-text / text editing | local clean repo ready, GitHub TODO |
+| [PoetryForge](cases/poetryforge.md) | Валидация LLM-результатов / CLI | local clean repo готов, GitHub TODO |
+| [Voice To Text](cases/voice-to-text.md) | Speech-to-text / редактирование текста | local clean repo готов, GitHub TODO |
 
 ## Как я подхожу к задачам
 

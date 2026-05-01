@@ -27,6 +27,7 @@
 - [x] В `Portfolio-Repos/voice-to-text` добавлены публичные sanitized `AGENTS.md` / `CLAUDE.md`.
 - [x] Clean repo `Portfolio-Repos/meeting-secretary` наполнен очищенным кодом: перенесены безопасные source-файлы, Docker/docs/env templates, добавлены публичные `AGENTS.md` / `CLAUDE.md`, syntax check и secret scan пройдены.
 - [x] Принято правило: публичные документы портфолио и clean repos вести на русском. `voice-to-text` и `meeting-secretary` README/AGENTS/CLEANUP/SECURITY переведены на русский.
+- [x] Clean repo `Portfolio-Repos/poetryforge` наполнен очищенным кодом из стабильного `HEAD`: добавлены source-файлы, тесты, `pyproject.toml`, `uv.lock`, публичные `AGENTS.md` / `CLAUDE.md`; большие generated data не включены; `uv run pytest` пройден (`161 passed, 6 skipped`), secret scan пройден.
 
 ### В процессе
 
@@ -34,4 +35,4 @@
 
 ### Следующий шаг
 
-Дальше выбрать следующий clean repo для наполнения кодом: вероятный кандидат `poetryforge`.
+Дальше выбрать следующий clean repo для наполнения кодом: вероятный кандидат `serbian-teacher`, `legal-verify` или `income-bot` в зависимости от приоритета и риска секретов.
