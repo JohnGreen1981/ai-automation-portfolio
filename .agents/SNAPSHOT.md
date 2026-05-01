@@ -31,6 +31,7 @@
 - [x] Clean repo `Portfolio-Repos/serbian-teacher` наполнен очищенным кодом: перенесены Telegram bot source-файлы, schema, requirements; создан безопасный `.env.example`; PDF/DOCX и исходный `.env.example` не перенесены; добавлены публичные `AGENTS.md` / `CLAUDE.md`; syntax check и secret scan пройдены.
 - [x] Clean repo `Portfolio-Repos/legal-verify` наполнен очищенным кодом: перенесены package source, prompts, `pyproject.toml`, `uv.lock`; исключены `.env`, `.venv`, `history/`, PDF и приватные документы; добавлены публичные `AGENTS.md` / `CLAUDE.md`, безопасный `.env.example`, deterministic tests; `uv run pytest` пройден (`3 passed`), syntax check и secret scan пройдены.
 - [x] Clean repo `Portfolio-Repos/income-bot` наполнен очищенным кодом: перенесены bot source-файлы, requirements, публичные docs; исключены `.keys`, service account JSON, `.env`, `.bak`, deploy scripts и systemd unit; реальные client aliases и персональные категории заменены на demo values; добавлены публичные `AGENTS.md` / `CLAUDE.md`, безопасный `.env.example`, tests; `pytest` пройден (`2 passed`), syntax check и secret scan пройдены.
+- [x] Clean repo `Portfolio-Repos/nutritionist` наполнен очищенным кодом: перенесены `src/nutri_bot/`, `migrations/001_init.sql`, `pyproject.toml`; исключены `.env`, `keys.md`, `.venv`, N8N reference files, пользовательские профили, история питания, фотографии, health data и chat logs; добавлены публичные `AGENTS.md` / `CLAUDE.md`, безопасный `.env.example`, synthetic tests; `pytest` пройден (`2 passed`), syntax check и secret scan пройдены.
 
 ### В процессе
 
@@ -38,4 +39,4 @@
 
 ### Следующий шаг
 
-Дальше выбрать следующий clean repo для наполнения кодом: вероятный кандидат `nutritionist` или `oleg-psychologist`. Оба требуют осторожной privacy-cleanup.
+Дальше выбрать следующий clean repo для наполнения кодом: вероятный кандидат `oleg-psychologist`. Проект чувствительный, поэтому безопаснее делать case study / demo repo без реальных психологических данных и без production details.
