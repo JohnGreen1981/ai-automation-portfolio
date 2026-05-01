@@ -28,6 +28,7 @@
 - [x] Clean repo `Portfolio-Repos/meeting-secretary` наполнен очищенным кодом: перенесены безопасные source-файлы, Docker/docs/env templates, добавлены публичные `AGENTS.md` / `CLAUDE.md`, syntax check и secret scan пройдены.
 - [x] Принято правило: публичные документы портфолио и clean repos вести на русском. `voice-to-text` и `meeting-secretary` README/AGENTS/CLEANUP/SECURITY переведены на русский.
 - [x] Clean repo `Portfolio-Repos/poetryforge` наполнен очищенным кодом из стабильного `HEAD`: добавлены source-файлы, тесты, `pyproject.toml`, `uv.lock`, публичные `AGENTS.md` / `CLAUDE.md`; большие generated data не включены; `uv run pytest` пройден (`161 passed, 6 skipped`), secret scan пройден.
+- [x] Clean repo `Portfolio-Repos/serbian-teacher` наполнен очищенным кодом: перенесены Telegram bot source-файлы, schema, requirements; создан безопасный `.env.example`; PDF/DOCX и исходный `.env.example` не перенесены; добавлены публичные `AGENTS.md` / `CLAUDE.md`; syntax check и secret scan пройдены.
 
 ### В процессе
 
@@ -35,4 +36,4 @@
 
 ### Следующий шаг
 
-Дальше выбрать следующий clean repo для наполнения кодом: вероятный кандидат `serbian-teacher`, `legal-verify` или `income-bot` в зависимости от приоритета и риска секретов.
+Дальше выбрать следующий clean repo для наполнения кодом: вероятный кандидат `legal-verify` или `income-bot` в зависимости от приоритета и риска секретов.
