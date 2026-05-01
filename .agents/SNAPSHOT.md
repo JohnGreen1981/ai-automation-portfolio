@@ -4,7 +4,7 @@
 
 ### Статус
 
-Создан черновой каркас GitHub-портфолио для анкеты на стажировку по prompt engineering и AI automation.
+Локальная версия GitHub-портфолио подготовлена для публикации: главный README, case studies и 8 clean/demo repos готовы. Осталось создать GitHub-репозитории, push и заменить placeholder-статусы на реальные URL.
 
 ### Сделано
 
@@ -33,11 +33,15 @@
 - [x] Clean repo `Portfolio-Repos/income-bot` наполнен очищенным кодом: перенесены bot source-файлы, requirements, публичные docs; исключены `.keys`, service account JSON, `.env`, `.bak`, deploy scripts и systemd unit; реальные client aliases и персональные категории заменены на demo values; добавлены публичные `AGENTS.md` / `CLAUDE.md`, безопасный `.env.example`, tests; `pytest` пройден (`2 passed`), syntax check и secret scan пройдены.
 - [x] Clean repo `Portfolio-Repos/nutritionist` наполнен очищенным кодом: перенесены `src/nutri_bot/`, `migrations/001_init.sql`, `pyproject.toml`; исключены `.env`, `keys.md`, `.venv`, N8N reference files, пользовательские профили, история питания, фотографии, health data и chat logs; добавлены публичные `AGENTS.md` / `CLAUDE.md`, безопасный `.env.example`, synthetic tests; `pytest` пройден (`2 passed`), syntax check и secret scan пройдены.
 - [x] Demo repo `Portfolio-Repos/oleg-psychologist` создан как безопасный architecture case study: исходные docs с owner IDs, доменами, VPS/IP, Supabase details и production settings не перенесены; добавлена нейтральная реализация memory workflow на синтетических данных, публичные `AGENTS.md` / `CLAUDE.md`, безопасный `.env.example`, tests; `pytest` пройден (`5 passed`), syntax check, demo run, secret scan и privacy scan пройдены.
+- [x] Главный README приведён к формату витрины: 5 главных кейсов и 3 дополнительных, без пустых `TODO` в контактах.
+- [x] Case studies синхронизированы со статусом clean repos: устаревшие формулировки про "ещё нужно создать clean repo" убраны.
+- [x] `PUBLISH_CHECKLIST.md` обновлён по фактически выполненным пунктам.
+- [x] Проведён общий scan по `Portfolio` и `Portfolio-Repos`: реальные ключи, production IP/domain, owner ID и приватные env-файлы не найдены; совпадения только по безопасным `.env.example` и placeholder-документации.
 
 ### В процессе
 
-- [ ] Обсудить и выбрать проекты, которые стоит показать в портфолио.
+- [ ] Опубликовать `Portfolio` и clean/demo repos на GitHub.
 
 ### Следующий шаг
 
-Все 8 локальных portfolio repos подготовлены. Следующий шаг: пройтись по case studies и главному README как по витрине перед публикацией, затем создать GitHub-репозитории, push и заменить `TODO` на реальные URLs.
+Создать GitHub-репозитории, запушить `Portfolio` и 8 clean/demo repos, затем заменить `GitHub URL будет добавлен после push` / `TODO` в `README.md`, `PUBLIC_REPOS.md` и case studies на реальные ссылки.

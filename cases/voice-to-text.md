@@ -51,9 +51,9 @@ Voice To Text — Telegram-бот, который превращает голо�
 ## Ограничения и безопасность
 
 - Рабочий `.env` не публикуется.
-- В `.env.example` нужно убрать личный owner ID.
+- `.env.example` в clean repo содержит только placeholder-значения.
 - Не публиковать реальные аудио и транскрипты.
-- Clean repo должен исключать локальную DB и служебные файлы.
+- Clean repo исключает локальную DB и служебные файлы.
 
 ## Что улучшил бы дальше
 
@@ -64,5 +64,5 @@ Voice To Text — Telegram-бот, который превращает голо�
 
 ## Ссылки
 
-- Код: local clean repo `Portfolio-Repos/voice-to-text` готов; GitHub URL TODO
+- Код: clean repo `Portfolio-Repos/voice-to-text` готов; GitHub URL будет добавлен после push
 - Clean repo plan: [PUBLIC_REPOS.md](../PUBLIC_REPOS.md)

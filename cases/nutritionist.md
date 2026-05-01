@@ -65,9 +65,9 @@ Nutritionist Bot — Telegram-бот для отслеживания питан�
 ## Ограничения и безопасность
 
 - Нельзя публиковать реальные данные питания, профили, фото, ключи и БД.
-- Публичная версия должна использовать synthetic demo data.
-- Нужен явный health disclaimer.
-- Clean repo должен исключать `keys.md`, `.env`, приватные миграции/данные и runtime-файлы.
+- Публичная версия использует synthetic tests и не содержит health data.
+- Health disclaimer сохранён в публичной документации.
+- Clean repo исключает `keys.md`, `.env`, пользовательские данные, фото, N8N reference files и runtime-файлы.
 
 ## Что улучшил бы дальше
 
@@ -78,6 +78,5 @@ Nutritionist Bot — Telegram-бот для отслеживания питан�
 
 ## Ссылки
 
-- Код: TODO после публикации clean repo `nutritionist`
+- Код: clean repo `Portfolio-Repos/nutritionist` готов; GitHub URL будет добавлен после push
 - Clean repo plan: [PUBLIC_REPOS.md](../PUBLIC_REPOS.md)
-

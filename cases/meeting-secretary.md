@@ -62,7 +62,7 @@ Meeting Secretary — Telegram-бот, который принимает ауд�
 - Нельзя публиковать реальные записи, стенограммы, имена участников и логи.
 - Рабочие `.env` и VPS-настройки не публикуются.
 - Summary может ошибаться, поэтому важные решения нужно проверять по стенограмме.
-- Clean repo должен содержать только код и синтетические/обезличенные примеры.
+- Clean repo содержит только код и синтетические/обезличенные примеры.
 
 ## Что улучшил бы дальше
 
@@ -73,5 +73,5 @@ Meeting Secretary — Telegram-бот, который принимает ауд�
 
 ## Ссылки
 
-- Код: local clean repo `Portfolio-Repos/meeting-secretary` готов; GitHub URL TODO
+- Код: clean repo `Portfolio-Repos/meeting-secretary` готов; GitHub URL будет добавлен после push
 - Clean repo plan: [PUBLIC_REPOS.md](../PUBLIC_REPOS.md)

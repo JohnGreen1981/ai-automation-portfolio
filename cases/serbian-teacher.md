@@ -62,9 +62,9 @@ Serbian Teacher — AI-assisted Telegram-бот для изучения серб
 ## Ограничения и безопасность
 
 - Рабочая папка не публикуется напрямую.
-- Перед GitHub нужно заменить `.env.example` на безопасный шаблон.
+- `.env.example` в clean repo заменён на безопасный шаблон.
 - Нельзя публиковать реальные токены, Supabase-ключи, персональные ID.
-- Нужно проверить права на учебные PDF/материалы и не включать их в публичный repo без оснований.
+- Учебные PDF/DOCX не включены в публичный repo.
 
 ## Что улучшил бы дальше
 
@@ -75,6 +75,5 @@ Serbian Teacher — AI-assisted Telegram-бот для изучения серб
 
 ## Ссылки
 
-- Код: TODO после публикации clean repo `serbian-teacher`
+- Код: clean repo `Portfolio-Repos/serbian-teacher` готов; GitHub URL будет добавлен после push
 - Clean repo plan: [PUBLIC_REPOS.md](../PUBLIC_REPOS.md)
-

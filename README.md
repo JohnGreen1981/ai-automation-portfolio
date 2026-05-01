@@ -29,16 +29,23 @@
 - что получилось в результате;
 - что я бы улучшил дальше.
 
-| Кейс | Направление | Repo |
+### Главные кейсы
+
+| Кейс | Направление | Статус |
 | --- | --- | --- |
-| [Legal Verify](cases/legal-verify.md) | Domain AI / legal verification | local clean repo готов, GitHub TODO |
-| [Serbian Teacher](cases/serbian-teacher.md) | AI tutor / education automation | local clean repo готов, GitHub TODO |
-| [Income Bot](cases/income-bot.md) | Finance automation / receipt parsing | local clean repo готов, GitHub TODO |
-| [Meeting Secretary](cases/meeting-secretary.md) | Speech-to-text / summary встреч | local clean repo готов, GitHub TODO |
-| [Nutritionist Bot](cases/nutritionist.md) | Product AI bot / nutrition tracking | local clean repo готов, GitHub TODO |
-| [Oleg Psychologist](cases/oleg-psychologist.md) | Long-term memory AI assistant | local demo repo готов, GitHub TODO |
-| [PoetryForge](cases/poetryforge.md) | Валидация LLM-результатов / CLI | local clean repo готов, GitHub TODO |
-| [Voice To Text](cases/voice-to-text.md) | Speech-to-text / редактирование текста | local clean repo готов, GitHub TODO |
+| [Legal Verify](cases/legal-verify.md) | Domain AI / legal verification | Clean repo готов, GitHub URL будет добавлен после push |
+| [Serbian Teacher](cases/serbian-teacher.md) | AI tutor / education automation | Clean repo готов, GitHub URL будет добавлен после push |
+| [Income Bot](cases/income-bot.md) | Finance automation / receipt parsing | Clean repo готов, GitHub URL будет добавлен после push |
+| [Meeting Secretary](cases/meeting-secretary.md) | Speech-to-text / summary встреч | Clean repo готов, GitHub URL будет добавлен после push |
+| [Nutritionist Bot](cases/nutritionist.md) | Product AI bot / nutrition tracking | Clean repo готов, GitHub URL будет добавлен после push |
+
+### Дополнительные кейсы
+
+| Кейс | Направление | Статус |
+| --- | --- | --- |
+| [Oleg Psychologist](cases/oleg-psychologist.md) | Long-term memory AI assistant | Demo repo готов, GitHub URL будет добавлен после push |
+| [PoetryForge](cases/poetryforge.md) | Валидация LLM-результатов / CLI | Clean repo готов, GitHub URL будет добавлен после push |
+| [Voice To Text](cases/voice-to-text.md) | Speech-to-text / редактирование текста | Clean repo готов, GitHub URL будет добавлен после push |
 
 ## Как я подхожу к задачам
 
@@ -68,6 +75,4 @@
 
 ## Контакты
 
-- GitHub: TODO
-- Telegram: TODO
-- Email: TODO
+Контакты будут добавлены перед публикацией портфолио.

@@ -59,22 +59,23 @@ Oleg Psychologist — чувствительный AI-кейс про персо
 
 Проект показывает важный AI-agent паттерн: персональный ассистент не должен быть просто stateless chat. Ему нужен controlled memory layer, профиль, правила сохранения и осторожная работа с приватностью.
 
+Для GitHub подготовлен не production dump, а безопасный demo repo: синтетическая реализация session buffer, memory search, profile facts, prompt context и safety boundaries без реальных сессий и deployment-деталей.
+
 ## Ограничения и безопасность
 
 - Тема психологических сессий чувствительна.
 - Нельзя публиковать реальные сессии, профиль, промпты с личными фактами, owner ID и production-настройки.
-- Для GitHub подходит только демо на синтетических данных или case study без полного кода.
+- Для GitHub подготовлено демо на синтетических данных вместо полного рабочего проекта.
 - Нужно явно указать, что бот не является медицинской или психотерапевтической услугой.
 
 ## Что улучшил бы дальше
 
-- Сделать полностью синтетическую demo-версию.
 - Добавить redaction layer для памяти.
 - Добавить настройки retention policy.
-- Добавить safety boundary checks.
+- Расширить safety boundary checks.
+- Добавить больше синтетических сценариев для тестов.
 
 ## Ссылки
 
-- Код / демо: TODO после решения о формате clean repo `oleg-psychologist`
+- Код / демо: demo repo `Portfolio-Repos/oleg-psychologist` готов; GitHub URL будет добавлен после push
 - Clean repo plan: [PUBLIC_REPOS.md](../PUBLIC_REPOS.md)
-

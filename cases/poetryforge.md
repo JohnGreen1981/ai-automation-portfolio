@@ -60,8 +60,8 @@ PoetryForge работает как CLI и Python API:
 
 ## Ограничения и безопасность
 
-- Перед публикацией нужно почистить рабочее дерево.
-- Нужно решить, какие большие словари и индексы публиковать в репозитории, а какие вынести в build step/release assets.
+- Clean repo подготовлен из стабильного `HEAD`.
+- Большие generated data не включены в публичный repo.
 - Не публиковать личные черновики, если они не нужны для демо.
 
 ## Что улучшил бы дальше
@@ -73,6 +73,5 @@ PoetryForge работает как CLI и Python API:
 
 ## Ссылки
 
-- Код: TODO после публикации clean repo `poetryforge`
+- Код: clean repo `Portfolio-Repos/poetryforge` готов; GitHub URL будет добавлен после push
 - Clean repo plan: [PUBLIC_REPOS.md](../PUBLIC_REPOS.md)
-
