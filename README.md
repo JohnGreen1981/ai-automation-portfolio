@@ -17,7 +17,9 @@
 
 ## Портфель кейсов
 
-Кейсы будут выбраны отдельно. Для каждого кейса здесь будет не просто ссылка на код, а короткое объяснение:
+Кейсы готовятся как отдельные публичные репозитории, а этот репозиторий будет витриной со ссылками на них. Карта репозиториев: [PUBLIC_REPOS.md](PUBLIC_REPOS.md).
+
+Для каждого кейса здесь будет не просто ссылка на код, а короткое объяснение:
 
 - какую задачу решал проект;
 - кто пользователь и в чем его боль;
@@ -27,12 +29,16 @@
 - что получилось в результате;
 - что я бы улучшил дальше.
 
-| Кейс | Направление | Статус |
+| Кейс | Направление | Repo |
 | --- | --- | --- |
-| TODO: Case 1 | AI automation / Telegram bot | Будет выбран |
-| TODO: Case 2 | Speech-to-text / LLM processing | Будет выбран |
-| TODO: Case 3 | Personal productivity automation | Будет выбран |
-| TODO: Case 4 | CLI / developer tool / validation | Будет выбран |
+| Legal Verify | Domain AI / legal verification | TODO |
+| Serbian Teacher | AI tutor / education automation | TODO |
+| Income Bot | Finance automation / receipt parsing | TODO |
+| Meeting Secretary | Speech-to-text / meeting summaries | TODO |
+| Nutritionist Bot | Product AI bot / nutrition tracking | TODO |
+| Oleg Psychologist | Long-term memory AI assistant | TODO |
+| PoetryForge | LLM output validation / CLI | TODO |
+| Voice To Text | Speech-to-text / text editing | TODO |
 
 ## Как я подхожу к задачам
 
