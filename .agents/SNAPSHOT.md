@@ -30,6 +30,7 @@
 - [x] Clean repo `Portfolio-Repos/poetryforge` наполнен очищенным кодом из стабильного `HEAD`: добавлены source-файлы, тесты, `pyproject.toml`, `uv.lock`, публичные `AGENTS.md` / `CLAUDE.md`; большие generated data не включены; `uv run pytest` пройден (`161 passed, 6 skipped`), secret scan пройден.
 - [x] Clean repo `Portfolio-Repos/serbian-teacher` наполнен очищенным кодом: перенесены Telegram bot source-файлы, schema, requirements; создан безопасный `.env.example`; PDF/DOCX и исходный `.env.example` не перенесены; добавлены публичные `AGENTS.md` / `CLAUDE.md`; syntax check и secret scan пройдены.
 - [x] Clean repo `Portfolio-Repos/legal-verify` наполнен очищенным кодом: перенесены package source, prompts, `pyproject.toml`, `uv.lock`; исключены `.env`, `.venv`, `history/`, PDF и приватные документы; добавлены публичные `AGENTS.md` / `CLAUDE.md`, безопасный `.env.example`, deterministic tests; `uv run pytest` пройден (`3 passed`), syntax check и secret scan пройдены.
+- [x] Clean repo `Portfolio-Repos/income-bot` наполнен очищенным кодом: перенесены bot source-файлы, requirements, публичные docs; исключены `.keys`, service account JSON, `.env`, `.bak`, deploy scripts и systemd unit; реальные client aliases и персональные категории заменены на demo values; добавлены публичные `AGENTS.md` / `CLAUDE.md`, безопасный `.env.example`, tests; `pytest` пройден (`2 passed`), syntax check и secret scan пройдены.
 
 ### В процессе
 
@@ -37,4 +38,4 @@
 
 ### Следующий шаг
 
-Дальше выбрать следующий clean repo для наполнения кодом: вероятный кандидат `income-bot`, но у него высокий риск секретов и приватных финансовых данных.
+Дальше выбрать следующий clean repo для наполнения кодом: вероятный кандидат `nutritionist` или `oleg-psychologist`. Оба требуют осторожной privacy-cleanup.

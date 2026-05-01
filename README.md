@@ -33,7 +33,7 @@
 | --- | --- | --- |
 | [Legal Verify](cases/legal-verify.md) | Domain AI / legal verification | local clean repo готов, GitHub TODO |
 | [Serbian Teacher](cases/serbian-teacher.md) | AI tutor / education automation | local clean repo готов, GitHub TODO |
-| [Income Bot](cases/income-bot.md) | Finance automation / receipt parsing | TODO |
+| [Income Bot](cases/income-bot.md) | Finance automation / receipt parsing | local clean repo готов, GitHub TODO |
 | [Meeting Secretary](cases/meeting-secretary.md) | Speech-to-text / summary встреч | local clean repo готов, GitHub TODO |
 | [Nutritionist Bot](cases/nutritionist.md) | Product AI bot / nutrition tracking | TODO |
 | [Oleg Psychologist](cases/oleg-psychologist.md) | Long-term memory AI assistant | TODO |
