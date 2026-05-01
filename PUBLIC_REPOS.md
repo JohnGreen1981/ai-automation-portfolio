@@ -17,7 +17,7 @@
 | Nutritionist Bot | `Portfolio-Repos/nutritionist` | TODO | `Нутрициолог/nutri-bot` | code repo + case study |
 | Oleg Psychologist | `Portfolio-Repos/oleg-psychologist` | TODO | `Олег (психолог)` | case study / demo repo |
 | PoetryForge | `Portfolio-Repos/poetryforge` | TODO | `Poetry_Killer` | code repo |
-| Voice To Text | `Portfolio-Repos/voice-to-text` | TODO | `VoiceToText` | code repo |
+| Voice To Text | `Portfolio-Repos/voice-to-text` | TODO | `VoiceToText` | code repo, local clean version ready |
 
 ## Publication Rule
 
@@ -30,4 +30,3 @@ Before any GitHub push:
 - run a secret scan;
 - review README wording so it reflects AI-assisted development honestly;
 - link the final GitHub URL back from this portfolio.
-

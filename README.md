@@ -38,7 +38,7 @@
 | [Nutritionist Bot](cases/nutritionist.md) | Product AI bot / nutrition tracking | TODO |
 | [Oleg Psychologist](cases/oleg-psychologist.md) | Long-term memory AI assistant | TODO |
 | [PoetryForge](cases/poetryforge.md) | LLM output validation / CLI | TODO |
-| [Voice To Text](cases/voice-to-text.md) | Speech-to-text / text editing | TODO |
+| [Voice To Text](cases/voice-to-text.md) | Speech-to-text / text editing | local clean repo ready, GitHub TODO |
 
 ## Как я подхожу к задачам
 

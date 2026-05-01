@@ -164,3 +164,7 @@ Case study должен показывать не "вот весь код", а �
 Дополнительные кейсы `cases/poetryforge.md` и `cases/voice-to-text.md` также созданы.
 
 Следующий шаг: начать наполнять clean repos очищенным кодом, по одному проекту за раз.
+
+Статус clean repos:
+
+- `Portfolio-Repos/voice-to-text` — наполнен очищенным кодом, syntax check пройден, secret scan пройден, GitHub URL пока TODO.

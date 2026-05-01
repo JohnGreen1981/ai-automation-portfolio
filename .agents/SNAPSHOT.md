@@ -23,6 +23,7 @@
 - [x] Добавлен `PUBLIC_REPOS.md` с картой будущих GitHub-репозиториев.
 - [x] Созданы draft case studies: `legal-verify`, `serbian-teacher`, `income-bot`, `meeting-secretary`, `nutritionist`, `oleg-psychologist`, `poetryforge`, `voice-to-text`.
 - [x] Главный `README.md` обновлен ссылками на созданные case studies.
+- [x] Clean repo `Portfolio-Repos/voice-to-text` наполнен очищенным кодом: перенесены только безопасные source-файлы, `.env.example` заменен на placeholder, syntax check и secret scan пройдены.
 
 ### В процессе
 
@@ -30,4 +31,4 @@
 
 ### Следующий шаг
 
-Дальше начать наполнять первый clean repo очищенным кодом без изменения исходных рабочих папок.
+Дальше выбрать следующий clean repo для наполнения кодом: вероятные кандидаты `meeting-secretary` или `poetryforge`.
