@@ -21,6 +21,8 @@
 - [x] Проведен аудит проектов-кандидатов и создан `PORTFOLIO_AUDIT.md`: рекомендованы финальные кейсы, форматы публикации, security blockers и следующий шаг.
 - [x] Принята стратегия: каждый проект публикуется отдельным clean repo, а `Portfolio` ссылается на них. Создан sibling-каталог `Portfolio-Repos/` с отдельными локальными git-заготовками для 8 проектов.
 - [x] Добавлен `PUBLIC_REPOS.md` с картой будущих GitHub-репозиториев.
+- [x] Созданы draft case studies: `legal-verify`, `serbian-teacher`, `income-bot`, `meeting-secretary`, `nutritionist`, `oleg-psychologist`, `poetryforge`, `voice-to-text`.
+- [x] Главный `README.md` обновлен ссылками на созданные case studies.
 
 ### В процессе
 
@@ -28,4 +30,4 @@
 
 ### Следующий шаг
 
-Написать draft case studies в `cases/`, затем по одному наполнять clean repos очищенным кодом без изменения исходных рабочих папок.
+Дальше начать наполнять первый clean repo очищенным кодом без изменения исходных рабочих папок.

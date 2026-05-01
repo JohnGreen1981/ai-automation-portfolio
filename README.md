@@ -31,14 +31,14 @@
 
 | Кейс | Направление | Repo |
 | --- | --- | --- |
-| Legal Verify | Domain AI / legal verification | TODO |
-| Serbian Teacher | AI tutor / education automation | TODO |
-| Income Bot | Finance automation / receipt parsing | TODO |
-| Meeting Secretary | Speech-to-text / meeting summaries | TODO |
-| Nutritionist Bot | Product AI bot / nutrition tracking | TODO |
-| Oleg Psychologist | Long-term memory AI assistant | TODO |
-| PoetryForge | LLM output validation / CLI | TODO |
-| Voice To Text | Speech-to-text / text editing | TODO |
+| [Legal Verify](cases/legal-verify.md) | Domain AI / legal verification | TODO |
+| [Serbian Teacher](cases/serbian-teacher.md) | AI tutor / education automation | TODO |
+| [Income Bot](cases/income-bot.md) | Finance automation / receipt parsing | TODO |
+| [Meeting Secretary](cases/meeting-secretary.md) | Speech-to-text / meeting summaries | TODO |
+| [Nutritionist Bot](cases/nutritionist.md) | Product AI bot / nutrition tracking | TODO |
+| [Oleg Psychologist](cases/oleg-psychologist.md) | Long-term memory AI assistant | TODO |
+| [PoetryForge](cases/poetryforge.md) | LLM output validation / CLI | TODO |
+| [Voice To Text](cases/voice-to-text.md) | Speech-to-text / text editing | TODO |
 
 ## Как я подхожу к задачам
 

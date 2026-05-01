@@ -152,13 +152,15 @@ Case study должен показывать не "вот весь код", а �
 
 ## Следующий конкретный шаг
 
-Создать первые draft case studies в `cases/`:
+Первые draft case studies созданы в `cases/`:
 
-1. `legal-verify.md`
-2. `serbian-teacher.md`
-3. `income-bot.md`
-4. `meeting-secretary.md`
-5. `nutritionist.md`
-6. `oleg-psychologist.md`
+1. `cases/legal-verify.md`
+2. `cases/serbian-teacher.md`
+3. `cases/income-bot.md`
+4. `cases/meeting-secretary.md`
+5. `cases/nutritionist.md`
+6. `cases/oleg-psychologist.md`
 
-После этого обновить главный `README.md`, чтобы портфолио уже выглядело как осмысленная витрина, даже если clean repos будут наполнены кодом позже.
+Дополнительные кейсы `cases/poetryforge.md` и `cases/voice-to-text.md` также созданы.
+
+Следующий шаг: начать наполнять clean repos очищенным кодом, по одному проекту за раз.
