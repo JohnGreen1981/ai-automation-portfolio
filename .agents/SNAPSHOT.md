@@ -26,6 +26,7 @@
 - [x] Clean repo `Portfolio-Repos/voice-to-text` наполнен очищенным кодом: перенесены только безопасные source-файлы, `.env.example` заменен на placeholder, syntax check и secret scan пройдены.
 - [x] В `Portfolio-Repos/voice-to-text` добавлены публичные sanitized `AGENTS.md` / `CLAUDE.md`.
 - [x] Clean repo `Portfolio-Repos/meeting-secretary` наполнен очищенным кодом: перенесены безопасные source-файлы, Docker/docs/env templates, добавлены публичные `AGENTS.md` / `CLAUDE.md`, syntax check и secret scan пройдены.
+- [x] Принято правило: публичные документы портфолио и clean repos вести на русском. `voice-to-text` и `meeting-secretary` README/AGENTS/CLEANUP/SECURITY переведены на русский.
 
 ### В процессе
 
