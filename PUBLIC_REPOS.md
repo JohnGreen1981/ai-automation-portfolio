@@ -10,7 +10,7 @@
 
 | Кейс | Локальный clean repo | GitHub URL | Исходная папка | Формат публикации |
 | --- | --- | --- | --- | --- |
-| Legal Verify | `Portfolio-Repos/legal-verify` | TODO | `Юрий/legal-verify` | code repo + case study |
+| Legal Verify | `Portfolio-Repos/legal-verify` | TODO | `Юрий/legal-verify` | code repo + case study, local clean repo готов |
 | Serbian Teacher | `Portfolio-Repos/serbian-teacher` | TODO | `Учитель сербского ` | code repo + case study, local clean repo готов |
 | Income Bot | `Portfolio-Repos/income-bot` | TODO | `Учет доходов и расходов/income-bot` | code repo + case study |
 | Meeting Secretary | `Portfolio-Repos/meeting-secretary` | TODO | `Секретарь собраний` | code repo + case study, local clean repo готов |

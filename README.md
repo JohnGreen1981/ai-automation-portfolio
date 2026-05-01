@@ -31,7 +31,7 @@
 
 | Кейс | Направление | Repo |
 | --- | --- | --- |
-| [Legal Verify](cases/legal-verify.md) | Domain AI / legal verification | TODO |
+| [Legal Verify](cases/legal-verify.md) | Domain AI / legal verification | local clean repo готов, GitHub TODO |
 | [Serbian Teacher](cases/serbian-teacher.md) | AI tutor / education automation | local clean repo готов, GitHub TODO |
 | [Income Bot](cases/income-bot.md) | Finance automation / receipt parsing | TODO |
 | [Meeting Secretary](cases/meeting-secretary.md) | Speech-to-text / summary встреч | local clean repo готов, GitHub TODO |
