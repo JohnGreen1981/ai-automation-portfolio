@@ -66,17 +66,17 @@
 - OpenAI API / LLM API
 - OpenAI Playground, GPTs, Actions
 - n8n: workflows, triggers, nodes, HTTP/API integrations
-- Speech-to-text API
+- Speech-to-text API (Whisper, AssemblyAI, Elevenlabs, Deepgram)
 - Google Sheets / Gmail integrations
 - Google Colab / Jupyter Notebook на базовом уровне
 - LangChain concepts: ReAct, Tool/Function Calling на ознакомительном уровне
-- Docker
+- Docker (AI-assisted)
 - Ngrok / базовое размещение AI-ассистентов на сервере
 - Markdown documentation
 - Git / GitHub
 - VS Code, базовые навыки PyCharm
-- Codex / Claude Code: skills, MCP servers, hooks, project memory, wiki-based knowledge workflow
-- Basic VPS deployment
+- Codex / Claude Code: skills, MCP servers, hooks, project memory, wiki-based knowledge workflow по методу А. Карпатого
+- Basic VPS deployment (AI-assisted)
 
 ## Что важно для стажировки
 
