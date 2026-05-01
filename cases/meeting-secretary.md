@@ -73,6 +73,5 @@ Meeting Secretary — Telegram-бот, который принимает ауд�
 
 ## Ссылки
 
-- Код: TODO после публикации clean repo `meeting-secretary`
+- Код: local clean repo `Portfolio-Repos/meeting-secretary` готов; GitHub URL TODO
 - Clean repo plan: [PUBLIC_REPOS.md](../PUBLIC_REPOS.md)
-

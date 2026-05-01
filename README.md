@@ -34,7 +34,7 @@
 | [Legal Verify](cases/legal-verify.md) | Domain AI / legal verification | TODO |
 | [Serbian Teacher](cases/serbian-teacher.md) | AI tutor / education automation | TODO |
 | [Income Bot](cases/income-bot.md) | Finance automation / receipt parsing | TODO |
-| [Meeting Secretary](cases/meeting-secretary.md) | Speech-to-text / meeting summaries | TODO |
+| [Meeting Secretary](cases/meeting-secretary.md) | Speech-to-text / meeting summaries | local clean repo ready, GitHub TODO |
 | [Nutritionist Bot](cases/nutritionist.md) | Product AI bot / nutrition tracking | TODO |
 | [Oleg Psychologist](cases/oleg-psychologist.md) | Long-term memory AI assistant | TODO |
 | [PoetryForge](cases/poetryforge.md) | LLM output validation / CLI | TODO |

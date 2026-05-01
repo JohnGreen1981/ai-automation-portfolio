@@ -24,6 +24,8 @@
 - [x] Созданы draft case studies: `legal-verify`, `serbian-teacher`, `income-bot`, `meeting-secretary`, `nutritionist`, `oleg-psychologist`, `poetryforge`, `voice-to-text`.
 - [x] Главный `README.md` обновлен ссылками на созданные case studies.
 - [x] Clean repo `Portfolio-Repos/voice-to-text` наполнен очищенным кодом: перенесены только безопасные source-файлы, `.env.example` заменен на placeholder, syntax check и secret scan пройдены.
+- [x] В `Portfolio-Repos/voice-to-text` добавлены публичные sanitized `AGENTS.md` / `CLAUDE.md`.
+- [x] Clean repo `Portfolio-Repos/meeting-secretary` наполнен очищенным кодом: перенесены безопасные source-файлы, Docker/docs/env templates, добавлены публичные `AGENTS.md` / `CLAUDE.md`, syntax check и secret scan пройдены.
 
 ### В процессе
 
@@ -31,4 +33,4 @@
 
 ### Следующий шаг
 
-Дальше выбрать следующий clean repo для наполнения кодом: вероятные кандидаты `meeting-secretary` или `poetryforge`.
+Дальше выбрать следующий clean repo для наполнения кодом: вероятный кандидат `poetryforge`.
