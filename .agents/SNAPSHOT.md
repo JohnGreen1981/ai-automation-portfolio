@@ -37,6 +37,7 @@
 - [x] Case studies синхронизированы со статусом clean repos: устаревшие формулировки про "ещё нужно создать clean repo" убраны.
 - [x] `PUBLISH_CHECKLIST.md` обновлён по фактически выполненным пунктам.
 - [x] Проведён общий scan по `Portfolio` и `Portfolio-Repos`: реальные ключи, production IP/domain, owner ID и приватные env-файлы не найдены; совпадения только по безопасным `.env.example` и placeholder-документации.
+- [x] В `README.md` и `QUESTIONNAIRE.md` добавлены навыки по итогам курса `Промт-Инжиниринг 2.0`: GPTs/Actions, OpenAI Playground, n8n workflows, API/HTTP-интеграции, Telegram/Gmail/Google Sheets, основы данных, Google Colab/Jupyter, LangChain ReAct и Tool/Function Calling; отдельно указаны VS Code, базовый PyCharm и Google Colab.
 
 ### В процессе
 

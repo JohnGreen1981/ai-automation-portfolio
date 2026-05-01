@@ -11,13 +11,16 @@
 - Проектировать LLM-сценарии: от формулировки задачи до проверки результата.
 - Собирать Telegram-ботов и простые backend-прототипы с помощью AI-coding assistants.
 - Интегрировать AI API, speech-to-text, task management, заметки и внешние сервисы.
+- Работать с системными промптами, GPTs/Actions, OpenAI Playground и базовой логикой Tool/Function Calling.
+- Собирать no-code / low-code AI-сценарии в n8n: триггеры, ноды, ветвления, HTTP-запросы, авторизация, интеграции с Telegram, Gmail и Google Sheets.
+- На базовом уровне работать с данными: структура таблиц, чистка/анонимизация данных, простая аналитика и проверка гипотез с помощью LLM.
 - Упаковывать решения в понятный пользовательский workflow.
 - Документировать проекты так, чтобы другой человек мог понять назначение, стек, ограничения и запуск.
 - Работать с Docker/VPS-деплоем на базовом прикладном уровне.
 
 ## Портфель кейсов
 
-Кейсы готовятся как отдельные публичные репозитории, а этот репозиторий будет витриной со ссылками на них. Карта репозиториев: [PUBLIC_REPOS.md](PUBLIC_REPOS.md).
+Кейсы готовятся как отдельные публичные репозитории, а этот репозиторий является витриной со ссылками на них. Карта репозиториев: [PUBLIC_REPOS.md](PUBLIC_REPOS.md).
 
 Для каждого кейса здесь будет не просто ссылка на код, а короткое объяснение:
 
@@ -60,10 +63,17 @@
 - Python-based automation (AI-assisted)
 - Telegram Bot API
 - OpenAI API / LLM API
+- OpenAI Playground, GPTs, Actions
+- n8n: workflows, triggers, nodes, HTTP/API integrations
 - Speech-to-text API
+- Google Sheets / Gmail integrations
+- Google Colab / Jupyter Notebook на базовом уровне
+- LangChain concepts: ReAct, Tool/Function Calling на ознакомительном уровне
 - Docker
+- Ngrok / базовое размещение AI-ассистентов на сервере
 - Markdown documentation
 - Git / GitHub
+- VS Code, базовые навыки PyCharm
 - Codex / Claude Code как инструменты AI-assisted development
 - Basic VPS deployment
 
