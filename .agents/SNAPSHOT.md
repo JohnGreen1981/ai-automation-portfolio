@@ -41,6 +41,7 @@ GitHub-портфолио опубликовано: основной репоз�
 - [x] В резюме добавлен продвинутый пользовательский опыт с Claude Code и Codex: skills, MCP servers, hooks, проектные инструкции, межсессионная память и wiki по методу Карпатого.
 - [x] Созданы и запушены публичные GitHub repositories: `ai-automation-portfolio`, `portfolio-legal-verify`, `portfolio-serbian-teacher`, `portfolio-income-bot`, `portfolio-meeting-secretary`, `portfolio-nutritionist`, `portfolio-oleg-psychologist`, `portfolio-poetryforge`, `portfolio-voice-to-text`.
 - [x] Реальные GitHub URLs добавлены в `README.md`, `PUBLIC_REPOS.md`, все case studies и `QUESTIONNAIRE.md`.
+- [x] GitHub URLs проверены через `gh repo view`: все 9 repositories имеют visibility `PUBLIC`.
 
 ### В процессе
 
