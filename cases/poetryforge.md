@@ -73,5 +73,5 @@ PoetryForge работает как CLI и Python API:
 
 ## Ссылки
 
-- Код: clean repo `Portfolio-Repos/poetryforge` готов; GitHub URL будет добавлен после push
+- Код: [portfolio-poetryforge](https://github.com/JohnGreen1981/portfolio-poetryforge)
 - Clean repo plan: [PUBLIC_REPOS.md](../PUBLIC_REPOS.md)

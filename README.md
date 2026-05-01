@@ -6,6 +6,8 @@
 
 Важное уточнение: я не позиционирую себя как разработчик, который пишет production-код с нуля вручную. Я работаю в формате AI-assisted development: проектирую задачу и workflow, формулирую требования, использую Codex / Claude Code для реализации, проверяю результат, тестирую сценарии, правлю промпты и документацию. Моя сильная сторона — собрать прикладной AI-прототип и довести его до понятного рабочего процесса.
 
+Публичная ссылка на портфолио: <https://github.com/JohnGreen1981/ai-automation-portfolio>
+
 ## Что я умею
 
 - Проектировать LLM-сценарии: от формулировки задачи до проверки результата.
@@ -37,19 +39,19 @@
 
 | Кейс | Направление | Статус |
 | --- | --- | --- |
-| [Legal Verify](cases/legal-verify.md) | Domain AI / legal verification | Clean repo готов, GitHub URL будет добавлен после push |
-| [Serbian Teacher](cases/serbian-teacher.md) | AI tutor / education automation | Clean repo готов, GitHub URL будет добавлен после push |
-| [Income Bot](cases/income-bot.md) | Finance automation / receipt parsing | Clean repo готов, GitHub URL будет добавлен после push |
-| [Meeting Secretary](cases/meeting-secretary.md) | Speech-to-text / summary встреч | Clean repo готов, GitHub URL будет добавлен после push |
-| [Nutritionist Bot](cases/nutritionist.md) | Product AI bot / nutrition tracking | Clean repo готов, GitHub URL будет добавлен после push |
+| [Legal Verify](cases/legal-verify.md) | Domain AI / legal verification | [GitHub repo](https://github.com/JohnGreen1981/portfolio-legal-verify) |
+| [Serbian Teacher](cases/serbian-teacher.md) | AI tutor / education automation | [GitHub repo](https://github.com/JohnGreen1981/portfolio-serbian-teacher) |
+| [Income Bot](cases/income-bot.md) | Finance automation / receipt parsing | [GitHub repo](https://github.com/JohnGreen1981/portfolio-income-bot) |
+| [Meeting Secretary](cases/meeting-secretary.md) | Speech-to-text / summary встреч | [GitHub repo](https://github.com/JohnGreen1981/portfolio-meeting-secretary) |
+| [Nutritionist Bot](cases/nutritionist.md) | Product AI bot / nutrition tracking | [GitHub repo](https://github.com/JohnGreen1981/portfolio-nutritionist) |
 
 ### Дополнительные кейсы
 
 | Кейс | Направление | Статус |
 | --- | --- | --- |
-| [Oleg Psychologist](cases/oleg-psychologist.md) | Long-term memory AI assistant | Demo repo готов, GitHub URL будет добавлен после push |
-| [PoetryForge](cases/poetryforge.md) | Валидация LLM-результатов / CLI | Clean repo готов, GitHub URL будет добавлен после push |
-| [Voice To Text](cases/voice-to-text.md) | Speech-to-text / редактирование текста | Clean repo готов, GitHub URL будет добавлен после push |
+| [Oleg Psychologist](cases/oleg-psychologist.md) | Long-term memory AI assistant | [GitHub repo](https://github.com/JohnGreen1981/portfolio-oleg-psychologist) |
+| [PoetryForge](cases/poetryforge.md) | Валидация LLM-результатов / CLI | [GitHub repo](https://github.com/JohnGreen1981/portfolio-poetryforge) |
+| [Voice To Text](cases/voice-to-text.md) | Speech-to-text / редактирование текста | [GitHub repo](https://github.com/JohnGreen1981/portfolio-voice-to-text) |
 
 ## Как я подхожу к задачам
 

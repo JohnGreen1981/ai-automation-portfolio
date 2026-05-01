@@ -78,5 +78,5 @@ Nutritionist Bot — Telegram-бот для отслеживания питан�
 
 ## Ссылки
 
-- Код: clean repo `Portfolio-Repos/nutritionist` готов; GitHub URL будет добавлен после push
+- Код: [portfolio-nutritionist](https://github.com/JohnGreen1981/portfolio-nutritionist)
 - Clean repo plan: [PUBLIC_REPOS.md](../PUBLIC_REPOS.md)

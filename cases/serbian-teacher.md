@@ -75,5 +75,5 @@ Serbian Teacher — AI-assisted Telegram-бот для изучения серб
 
 ## Ссылки
 
-- Код: clean repo `Portfolio-Repos/serbian-teacher` готов; GitHub URL будет добавлен после push
+- Код: [portfolio-serbian-teacher](https://github.com/JohnGreen1981/portfolio-serbian-teacher)
 - Clean repo plan: [PUBLIC_REPOS.md](../PUBLIC_REPOS.md)

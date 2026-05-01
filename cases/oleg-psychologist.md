@@ -77,5 +77,5 @@ Oleg Psychologist — чувствительный AI-кейс про персо
 
 ## Ссылки
 
-- Код / демо: demo repo `Portfolio-Repos/oleg-psychologist` готов; GitHub URL будет добавлен после push
+- Код / демо: [portfolio-oleg-psychologist](https://github.com/JohnGreen1981/portfolio-oleg-psychologist)
 - Clean repo plan: [PUBLIC_REPOS.md](../PUBLIC_REPOS.md)

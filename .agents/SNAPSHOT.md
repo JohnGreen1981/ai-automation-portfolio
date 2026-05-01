@@ -4,7 +4,7 @@
 
 ### Статус
 
-Локальная версия GitHub-портфолио подготовлена для публикации: главный README, case studies и 8 clean/demo repos готовы. Осталось создать GitHub-репозитории, push и заменить placeholder-статусы на реальные URL.
+GitHub-портфолио опубликовано: основной репозиторий и 8 clean/demo repos доступны публично. Реальные URL добавлены в README, `PUBLIC_REPOS.md`, case studies и `QUESTIONNAIRE.md`.
 
 ### Сделано
 
@@ -39,11 +39,13 @@
 - [x] Проведён общий scan по `Portfolio` и `Portfolio-Repos`: реальные ключи, production IP/domain, owner ID и приватные env-файлы не найдены; совпадения только по безопасным `.env.example` и placeholder-документации.
 - [x] В `README.md` и `QUESTIONNAIRE.md` добавлены навыки по итогам курса `Промт-Инжиниринг 2.0`: GPTs/Actions, OpenAI Playground, n8n workflows, API/HTTP-интеграции, Telegram/Gmail/Google Sheets, основы данных, Google Colab/Jupyter, LangChain ReAct и Tool/Function Calling; отдельно указаны VS Code, базовый PyCharm и Google Colab.
 - [x] В резюме добавлен продвинутый пользовательский опыт с Claude Code и Codex: skills, MCP servers, hooks, проектные инструкции, межсессионная память и wiki по методу Карпатого.
+- [x] Созданы и запушены публичные GitHub repositories: `ai-automation-portfolio`, `portfolio-legal-verify`, `portfolio-serbian-teacher`, `portfolio-income-bot`, `portfolio-meeting-secretary`, `portfolio-nutritionist`, `portfolio-oleg-psychologist`, `portfolio-poetryforge`, `portfolio-voice-to-text`.
+- [x] Реальные GitHub URLs добавлены в `README.md`, `PUBLIC_REPOS.md`, все case studies и `QUESTIONNAIRE.md`.
 
 ### В процессе
 
-- [ ] Опубликовать `Portfolio` и clean/demo repos на GitHub.
+- [ ] Финальная проверка опубликованной страницы в браузере / приватном окне.
 
 ### Следующий шаг
 
-Создать GitHub-репозитории, запушить `Portfolio` и 8 clean/demo repos, затем заменить `GitHub URL будет добавлен после push` / `TODO` в `README.md`, `PUBLIC_REPOS.md` и case studies на реальные ссылки.
+Открыть опубликованный `README.md` как внешний пользователь, проверить ссылки и мобильный вид. После проверки можно вставлять ссылку в анкету: `https://github.com/JohnGreen1981/ai-automation-portfolio`.

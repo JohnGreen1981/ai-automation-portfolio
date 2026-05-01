@@ -77,5 +77,5 @@ LLM извлекает сумму, категорию, валюту, магаз�
 
 ## Ссылки
 
-- Код: clean repo `Portfolio-Repos/income-bot` готов; GitHub URL будет добавлен после push
+- Код: [portfolio-income-bot](https://github.com/JohnGreen1981/portfolio-income-bot)
 - Clean repo plan: [PUBLIC_REPOS.md](../PUBLIC_REPOS.md)

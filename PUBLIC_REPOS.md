@@ -10,14 +10,14 @@
 
 | Кейс | Локальный clean repo | GitHub URL | Исходная папка | Формат публикации |
 | --- | --- | --- | --- | --- |
-| Legal Verify | `Portfolio-Repos/legal-verify` | TODO | `Юрий/legal-verify` | code repo + case study, local clean repo готов |
-| Serbian Teacher | `Portfolio-Repos/serbian-teacher` | TODO | `Учитель сербского ` | code repo + case study, local clean repo готов |
-| Income Bot | `Portfolio-Repos/income-bot` | TODO | `Учет доходов и расходов/income-bot` | code repo + case study, local clean repo готов |
-| Meeting Secretary | `Portfolio-Repos/meeting-secretary` | TODO | `Секретарь собраний` | code repo + case study, local clean repo готов |
-| Nutritionist Bot | `Portfolio-Repos/nutritionist` | TODO | `Нутрициолог/nutri-bot` | code repo + case study, local clean repo готов |
-| Oleg Psychologist | `Portfolio-Repos/oleg-psychologist` | TODO | `Олег (психолог)` | case study / demo repo, local demo repo готов |
-| PoetryForge | `Portfolio-Repos/poetryforge` | TODO | `Poetry_Killer` | code repo, local clean repo готов |
-| Voice To Text | `Portfolio-Repos/voice-to-text` | TODO | `VoiceToText` | code repo, local clean repo готов |
+| Legal Verify | `Portfolio-Repos/legal-verify` | <https://github.com/JohnGreen1981/portfolio-legal-verify> | `Юрий/legal-verify` | code repo + case study, published |
+| Serbian Teacher | `Portfolio-Repos/serbian-teacher` | <https://github.com/JohnGreen1981/portfolio-serbian-teacher> | `Учитель сербского ` | code repo + case study, published |
+| Income Bot | `Portfolio-Repos/income-bot` | <https://github.com/JohnGreen1981/portfolio-income-bot> | `Учет доходов и расходов/income-bot` | code repo + case study, published |
+| Meeting Secretary | `Portfolio-Repos/meeting-secretary` | <https://github.com/JohnGreen1981/portfolio-meeting-secretary> | `Секретарь собраний` | code repo + case study, published |
+| Nutritionist Bot | `Portfolio-Repos/nutritionist` | <https://github.com/JohnGreen1981/portfolio-nutritionist> | `Нутрициолог/nutri-bot` | code repo + case study, published |
+| Oleg Psychologist | `Portfolio-Repos/oleg-psychologist` | <https://github.com/JohnGreen1981/portfolio-oleg-psychologist> | `Олег (психолог)` | case study / demo repo, published |
+| PoetryForge | `Portfolio-Repos/poetryforge` | <https://github.com/JohnGreen1981/portfolio-poetryforge> | `Poetry_Killer` | code repo, published |
+| Voice To Text | `Portfolio-Repos/voice-to-text` | <https://github.com/JohnGreen1981/portfolio-voice-to-text> | `VoiceToText` | code repo, published |
 
 ## Правило публикации
 
