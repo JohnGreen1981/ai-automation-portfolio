@@ -38,6 +38,7 @@
 - [x] `PUBLISH_CHECKLIST.md` обновлён по фактически выполненным пунктам.
 - [x] Проведён общий scan по `Portfolio` и `Portfolio-Repos`: реальные ключи, production IP/domain, owner ID и приватные env-файлы не найдены; совпадения только по безопасным `.env.example` и placeholder-документации.
 - [x] В `README.md` и `QUESTIONNAIRE.md` добавлены навыки по итогам курса `Промт-Инжиниринг 2.0`: GPTs/Actions, OpenAI Playground, n8n workflows, API/HTTP-интеграции, Telegram/Gmail/Google Sheets, основы данных, Google Colab/Jupyter, LangChain ReAct и Tool/Function Calling; отдельно указаны VS Code, базовый PyCharm и Google Colab.
+- [x] В резюме добавлен продвинутый пользовательский опыт с Claude Code и Codex: skills, MCP servers, hooks, проектные инструкции, межсессионная память и wiki по методу Карпатого.
 
 ### В процессе
 

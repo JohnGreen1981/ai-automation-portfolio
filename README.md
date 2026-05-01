@@ -10,6 +10,7 @@
 
 - Проектировать LLM-сценарии: от формулировки задачи до проверки результата.
 - Собирать Telegram-ботов и простые backend-прототипы с помощью AI-coding assistants.
+- Продвинуто использовать Claude Code и Codex как рабочую агентную среду: skills, MCP servers, hooks, проектные инструкции, межсессионная память и wiki по методу Карпатого.
 - Интегрировать AI API, speech-to-text, task management, заметки и внешние сервисы.
 - Работать с системными промптами, GPTs/Actions, OpenAI Playground и базовой логикой Tool/Function Calling.
 - Собирать no-code / low-code AI-сценарии в n8n: триггеры, ноды, ветвления, HTTP-запросы, авторизация, интеграции с Telegram, Gmail и Google Sheets.
@@ -74,7 +75,7 @@
 - Markdown documentation
 - Git / GitHub
 - VS Code, базовые навыки PyCharm
-- Codex / Claude Code как инструменты AI-assisted development
+- Codex / Claude Code: skills, MCP servers, hooks, project memory, wiki-based knowledge workflow
 - Basic VPS deployment
 
 ## Что важно для стажировки
