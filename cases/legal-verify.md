@@ -76,4 +76,3 @@ Workflow разделён на два слоя:
 ## Ссылки
 
 - Код: [portfolio-legal-verify](https://github.com/JohnGreen1981/portfolio-legal-verify)
-- Clean repo plan: [PUBLIC_REPOS.md](../PUBLIC_REPOS.md)

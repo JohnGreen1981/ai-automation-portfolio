@@ -65,4 +65,3 @@ Voice To Text — Telegram-бот, который превращает голо�
 ## Ссылки
 
 - Код: [portfolio-voice-to-text](https://github.com/JohnGreen1981/portfolio-voice-to-text)
-- Clean repo plan: [PUBLIC_REPOS.md](../PUBLIC_REPOS.md)
