@@ -32,6 +32,7 @@
 - [x] Clean repo `Portfolio-Repos/legal-verify` наполнен очищенным кодом: перенесены package source, prompts, `pyproject.toml`, `uv.lock`; исключены `.env`, `.venv`, `history/`, PDF и приватные документы; добавлены публичные `AGENTS.md` / `CLAUDE.md`, безопасный `.env.example`, deterministic tests; `uv run pytest` пройден (`3 passed`), syntax check и secret scan пройдены.
 - [x] Clean repo `Portfolio-Repos/income-bot` наполнен очищенным кодом: перенесены bot source-файлы, requirements, публичные docs; исключены `.keys`, service account JSON, `.env`, `.bak`, deploy scripts и systemd unit; реальные client aliases и персональные категории заменены на demo values; добавлены публичные `AGENTS.md` / `CLAUDE.md`, безопасный `.env.example`, tests; `pytest` пройден (`2 passed`), syntax check и secret scan пройдены.
 - [x] Clean repo `Portfolio-Repos/nutritionist` наполнен очищенным кодом: перенесены `src/nutri_bot/`, `migrations/001_init.sql`, `pyproject.toml`; исключены `.env`, `keys.md`, `.venv`, N8N reference files, пользовательские профили, история питания, фотографии, health data и chat logs; добавлены публичные `AGENTS.md` / `CLAUDE.md`, безопасный `.env.example`, synthetic tests; `pytest` пройден (`2 passed`), syntax check и secret scan пройдены.
+- [x] Demo repo `Portfolio-Repos/oleg-psychologist` создан как безопасный architecture case study: исходные docs с owner IDs, доменами, VPS/IP, Supabase details и production settings не перенесены; добавлена нейтральная реализация memory workflow на синтетических данных, публичные `AGENTS.md` / `CLAUDE.md`, безопасный `.env.example`, tests; `pytest` пройден (`5 passed`), syntax check, demo run, secret scan и privacy scan пройдены.
 
 ### В процессе
 
@@ -39,4 +40,4 @@
 
 ### Следующий шаг
 
-Дальше выбрать следующий clean repo для наполнения кодом: вероятный кандидат `oleg-psychologist`. Проект чувствительный, поэтому безопаснее делать case study / demo repo без реальных психологических данных и без production details.
+Все 8 локальных portfolio repos подготовлены. Следующий шаг: пройтись по case studies и главному README как по витрине перед публикацией, затем создать GitHub-репозитории, push и заменить `TODO` на реальные URLs.

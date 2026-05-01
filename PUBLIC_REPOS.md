@@ -15,7 +15,7 @@
 | Income Bot | `Portfolio-Repos/income-bot` | TODO | `Учет доходов и расходов/income-bot` | code repo + case study, local clean repo готов |
 | Meeting Secretary | `Portfolio-Repos/meeting-secretary` | TODO | `Секретарь собраний` | code repo + case study, local clean repo готов |
 | Nutritionist Bot | `Portfolio-Repos/nutritionist` | TODO | `Нутрициолог/nutri-bot` | code repo + case study, local clean repo готов |
-| Oleg Psychologist | `Portfolio-Repos/oleg-psychologist` | TODO | `Олег (психолог)` | case study / demo repo |
+| Oleg Psychologist | `Portfolio-Repos/oleg-psychologist` | TODO | `Олег (психолог)` | case study / demo repo, local demo repo готов |
 | PoetryForge | `Portfolio-Repos/poetryforge` | TODO | `Poetry_Killer` | code repo, local clean repo готов |
 | Voice To Text | `Portfolio-Repos/voice-to-text` | TODO | `VoiceToText` | code repo, local clean repo готов |
 

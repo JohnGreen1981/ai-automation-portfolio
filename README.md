@@ -36,7 +36,7 @@
 | [Income Bot](cases/income-bot.md) | Finance automation / receipt parsing | local clean repo готов, GitHub TODO |
 | [Meeting Secretary](cases/meeting-secretary.md) | Speech-to-text / summary встреч | local clean repo готов, GitHub TODO |
 | [Nutritionist Bot](cases/nutritionist.md) | Product AI bot / nutrition tracking | local clean repo готов, GitHub TODO |
-| [Oleg Psychologist](cases/oleg-psychologist.md) | Long-term memory AI assistant | TODO |
+| [Oleg Psychologist](cases/oleg-psychologist.md) | Long-term memory AI assistant | local demo repo готов, GitHub TODO |
 | [PoetryForge](cases/poetryforge.md) | Валидация LLM-результатов / CLI | local clean repo готов, GitHub TODO |
 | [Voice To Text](cases/voice-to-text.md) | Speech-to-text / редактирование текста | local clean repo готов, GitHub TODO |
 
