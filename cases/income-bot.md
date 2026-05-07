@@ -6,6 +6,17 @@ AI-бот для учёта доходов и расходов.
 
 Income Bot — Telegram-бот для личного финансового учёта. Пользователь пишет доход или расход свободным текстом, голосом или отправляет фото чека, а бот разбирает данные и записывает их в Google Sheets.
 
+## Демо
+
+<p align="center">
+  <img src="../assets/screenshots/income-bot/01-voice-income.png" width="45%" alt="Голосовой ввод дохода с распознаванием клиента" />
+  <img src="../assets/screenshots/income-bot/02-receipt-ocr.png" width="45%" alt="OCR чека и разбивка по категориям" />
+</p>
+<p align="center">
+  <img src="../assets/screenshots/income-bot/03-categories.png" width="45%" alt="Ручная коррекция категории расхода" />
+  <img src="../assets/screenshots/income-bot/04-google-sheets.png" width="45%" alt="Google Sheets с расходами и курсами валют" />
+</p>
+
 ## Проблема
 
 Финансовый учёт часто ломается из-за трения: нужно открыть таблицу, выбрать категорию, указать дату, валюту, магазин, сумму и описание.

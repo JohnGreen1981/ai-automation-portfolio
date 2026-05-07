@@ -6,6 +6,17 @@
 
 Meeting Secretary — Telegram-бот, который принимает аудио, видео или файл с записью встречи, расшифровывает её, делит по спикерам и готовит краткое summary. Проект закрывает реальный сценарий: быстро получить полную стенограмму и рабочую выжимку после созвона.
 
+## Демо
+
+<p align="center">
+  <img src="../assets/screenshots/meeting-secretary/01-summary.png" width="45%" alt="Саммари встречи: Кратко и Что решили" />
+  <img src="../assets/screenshots/meeting-secretary/02-tasks.png" width="45%" alt="Поручения с исполнителями и сроками" />
+</p>
+<p align="center">
+  <img src="../assets/screenshots/meeting-secretary/03-questions.png" width="45%" alt="Открытые вопросы" />
+  <img src="../assets/screenshots/meeting-secretary/04-risks.png" width="45%" alt="Риски, следующий шаг и стенограмма .txt" />
+</p>
+
 ## Проблема
 
 После встреч часто остаётся длинная запись, которую никто не хочет переслушивать. Нужно быстро получить:
