@@ -6,6 +6,17 @@ AI-учитель сербского языка в Telegram.
 
 Serbian Teacher — AI-assisted Telegram-бот для изучения сербского языка. Он поддерживает свободный чат, уроки, квизы, добавление слов и статистику прогресса.
 
+## Демо
+
+<p align="center">
+  <img src="../assets/screenshots/serbian-teacher/01-lesson.png" width="45%" alt="Структурированный урок" />
+  <img src="../assets/screenshots/serbian-teacher/02-quiz.png" width="45%" alt="Режим квиза с интервальным повторением" />
+</p>
+<p align="center">
+  <img src="../assets/screenshots/serbian-teacher/03-add-word.png" width="45%" alt="Статистика и добавление слова через AI" />
+  <img src="../assets/screenshots/serbian-teacher/04-conversation.png" width="45%" alt="Свободная беседа с AI-учителем" />
+</p>
+
 ## Проблема
 
 Изучать язык трудно, если обучение распадается на отдельные действия: учебник отдельно, словарь отдельно, повторение отдельно, вопросы преподавателю отдельно.
