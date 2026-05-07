@@ -6,6 +6,17 @@
 
 Voice To Text — Telegram-бот, который превращает голосовые сообщения и аудиофайлы в текст. После транскрибации пользователь может вручную запустить GPT-редактор одной кнопкой.
 
+## Демо
+
+<p align="center">
+  <img src="../assets/screenshots/voice-to-text/01-start.png" width="45%" alt="Приветствие и первая расшифровка" />
+  <img src="../assets/screenshots/voice-to-text/02-long-transcript.png" width="45%" alt="Длинная расшифровка из реального голосового" />
+</p>
+<p align="center">
+  <img src="../assets/screenshots/voice-to-text/03-editing.png" width="45%" alt="Запуск GPT-редактора по кнопке" />
+  <img src="../assets/screenshots/voice-to-text/04-edited.png" width="45%" alt="Финальный отредактированный текст" />
+</p>
+
 ## Проблема
 
 Голосовые сообщения удобны для записи мыслей, но неудобны для дальнейшей работы: их сложно искать, копировать, редактировать и вставлять в документы.
