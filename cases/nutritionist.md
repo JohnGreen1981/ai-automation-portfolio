@@ -6,6 +6,17 @@ AI-нутри-помощник в Telegram.
 
 Nutritionist Bot — Telegram-бот для отслеживания питания: онбординг, распознавание еды по фото, КБЖУ, дневник, чат-агент и вечерний дайджест. Это продуктовый AI-кейс: не один промпт, а многошаговый пользовательский workflow.
 
+## Демо
+
+<p align="center">
+  <img src="../assets/screenshots/nutritionist/01-profile.png" width="45%" alt="Профиль с целью и аллергиями" />
+  <img src="../assets/screenshots/nutritionist/02-voice-input.png" width="45%" alt="Голосовой лог еды и разбивка по КБЖУ" />
+</p>
+<p align="center">
+  <img src="../assets/screenshots/nutritionist/03-photo-recognition.png" width="45%" alt="Распознавание блюда по фото" />
+  <img src="../assets/screenshots/nutritionist/04-daily-report.png" width="45%" alt="Сводка за день с итогами по КБЖУ" />
+</p>
+
 ## Проблема
 
 Люди часто бросают дневники питания, потому что ввод еды занимает слишком много усилий. Нужно снизить трение:
