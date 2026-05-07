@@ -6,6 +6,23 @@ AI-бот с долгосрочной памятью для личных пси�
 
 Oleg Psychologist — чувствительный AI-кейс про персонального бота с долгосрочной памятью. Для портфолио он подходит не как полный публичный код, а как обезличенный architectural case study или demo repo с синтетическими данными.
 
+## Демо
+
+Слайды презентации продукта.
+
+<p align="center">
+  <img src="../assets/screenshots/oleg-psychologist/01-cover.png" width="80%" alt="Обложка: Олег — личный AI-психолог в Telegram" />
+</p>
+<p align="center">
+  <img src="../assets/screenshots/oleg-psychologist/02-what-and-why.png" width="80%" alt="Что это и зачем" />
+</p>
+<p align="center">
+  <img src="../assets/screenshots/oleg-psychologist/03-how-to-use.png" width="80%" alt="Как пользоваться: войти, говорить, завершить" />
+</p>
+<p align="center">
+  <img src="../assets/screenshots/oleg-psychologist/04-memory.png" width="80%" alt="Память: дневник сессий" />
+</p>
+
 ## Проблема
 
 Обычный чат с LLM не помнит долгую историю пользователя. Для персонального помощника важны:
